@@ -6,7 +6,7 @@
 - 👨‍💻 Some of the projects I've worked on
   - Backend [SafeDrive](https://addit.uy/#soluciones)
   - Mobile App [MiReserva](https://mireserva.io/)
-  - Mobile App [ERRO](https://play.google.com/store/apps/details?id=uy.com.doits.erro&hl=es)
+  - Mobile App [Android](https://play.google.com/store/apps/details?id=uy.com.doits.erro&hl=es) | [iOS](https://apps.apple.com/uy/app/barraca-erro/id1512423841)
 
 <h3 align="left">Most used languages and tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
